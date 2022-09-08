@@ -8,6 +8,7 @@ cpu's speed is measured in a term called clock speed this is referred to in giga
 
 [gpu](GPU.md)
 
+the graphics processing unit will allow you to process all of your effects for your games so those massive explosions you loce to make in your games the gpu will render all of those effects and display them to you in the highest quality possible
 
 
 
@@ -21,7 +22,7 @@ cpu's speed is measured in a term called clock speed this is referred to in giga
 
 
 
-[motherboard]
+[motherboard](Motherboard.md)
 
 
 
