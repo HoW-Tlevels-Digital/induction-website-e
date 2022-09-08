@@ -1,4 +1,5 @@
 #All about a computer
+
 [cpu](cpu.md)
 
 a cpu is the backbone of a computer, without it the computer will not function.
