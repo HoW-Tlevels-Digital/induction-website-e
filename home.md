@@ -10,6 +10,8 @@ cpu's speed is measured in a term called clock speed this is referred to in giga
 
 the graphics processing unit will allow you to process all of your effects for your games so those massive explosions you loce to make in your games the gpu will render all of those effects and display them to you in the highest quality possible
 
+they are now very expensive due to a worldwide silicone shortage
+so people are having to pay big big money for the new 3000 series of graphics cards however they are the strongest series of cards on the market.
 
 
 
@@ -23,6 +25,8 @@ the graphics processing unit will allow you to process all of your effects for y
 
 
 [motherboard](Motherboard.md)
+
+motherboards are the skeleton of the computer it houses the cpu the gpu the ssd/hdd they hold the ram, the nics 
 
 
 
